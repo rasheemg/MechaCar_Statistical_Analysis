@@ -9,9 +9,9 @@ The data analysis shows that the vehicle length and vehicle ground clearance pro
 The slope of the linear model is not considered to be zero based on the p-value for this model 5.35e-11.
 This linear model does predict mpg of MechaCare prototypes effectively, this is proven by the r-squared value of 0.7149, indicating that about 71% of the mpg predictions are determined by the model.
 
-<img width="756" alt="MechaCar Image 1" src="https://user-images.githubusercontent.com/93060074/159138792-e85c5500-5a4a-4bbd-bd58-b1c65eb41b90.png">
+<img width="763" alt="MechaCar 1" src="https://user-images.githubusercontent.com/93060074/159139084-c9f0c6a3-c38c-4b01-aea7-677d1d20efbc.png">
 
-<img width="1032" alt="MechaCar Image 2" src="https://user-images.githubusercontent.com/93060074/159138800-4d1a388b-34d4-4ce8-a3da-5ef6e828f05b.png">
+<img width="766" alt="MechaCar 2" src="https://user-images.githubusercontent.com/93060074/159139088-bcdb890f-2680-4a15-bc78-538c16a2e714.png">
 
 ## Summary Statistics on Suspension Coils
 
