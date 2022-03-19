@@ -30,3 +30,9 @@ The summary t-test across all manufacturing lots shows the mean is 1498.78, see 
 The analysis for the individual lots is included in the image below.  The mean for Lot 1 is 1500, with a p-value of 1.  The mean for Lot 2 is 1500.2, with a p-value of 0.61.  The mean for Lot 3 is 1496.14, with a p-value of 0.04.  The p-value for Lots 1 and 2 indicate the results are similar to the population mean.  While for Lot 3 the p-value indicates that the data is not considered normally distributed and the mean is statistically different from the population mean of 1,500 pounds per square inch.
 
 <img width="511" alt="t test by lot" src="https://user-images.githubusercontent.com/93060074/159140066-ce28b137-caea-4bd2-93b0-9819f4f624e0.png">
+
+## Study Design: MechaCar vs Competition
+
+There are several metrics that are of interest to consumers when they consider purchasing a car including cost, city or highway fuel efficiency, horse power, maintenance cost and safety rating.  Testing this metrics will help with comparing how the MechaCar performs against the competition.  We can collect data from competitors on these metrics.  
+
+The null hypothesis will be that the city and highway fuel efficiency for MechaCar is statistically similar to cars in the same class.  The alternative hypothesis will be that the city and highway fuel efficiency for MechaCare is statistically different and falls above or below competitors vehicles.  File fuel efficiency is measured my miles per gallon of fuel (mpg) we can run this data through the t-test to prove or disprove the hypothesis.
