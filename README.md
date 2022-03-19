@@ -21,3 +21,12 @@ The design specifications for the MechaCar suspension coils require that the var
 
 <img width="538" alt="lot_summary" src="https://user-images.githubusercontent.com/93060074/159138810-2e75bae0-6f58-4754-8f5f-265b14de0aea.png">
 
+## T-Tests on Suspension Coils
+
+The summary t-test across all manufacturing lots shows the mean is 1498.78, see image below.  Based on the p-value at 0.06 we can consider this data normally distributed as the value is over 0.05.  The results of the summary appears to be similar to the population mean of 1500 pounds per square inch.  
+
+<img width="454" alt="t test" src="https://user-images.githubusercontent.com/93060074/159140059-c5a322b2-af4b-43ca-b2e0-e6bb1cbc944d.png">
+
+The analysis for the individual lots is included in the image below.  The mean for Lot 1 is 1500, with a p-value of 1.  The mean for Lot 2 is 1500.2, with a p-value of 0.61.  The mean for Lot 3 is 1496.14, with a p-value of 0.04.  The p-value for Lots 1 and 2 indicate the results are similar to the population mean.  While for Lot 3 the p-value indicates that the data is not considered normally distributed and the mean is statistically different from the population mean of 1,500 pounds per square inch.
+
+<img width="511" alt="t test by lot" src="https://user-images.githubusercontent.com/93060074/159140066-ce28b137-caea-4bd2-93b0-9819f4f624e0.png">
